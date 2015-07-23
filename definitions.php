@@ -5,11 +5,10 @@ $LocaleInfo['cs-CZ'] = array (
   'Name' => 'Czech Locale - Česká lokalizace',
   'Description' => 'Česká lokalizace pro Vanillu 2.1',
   'Version' => '2.1',
-  'Author' => 'paulcz, Gepeto',
+  'Author' => 'Pavel Dedík and Branislav Bučko',
   'AuthorEmail' => 'dedikx@gmail.com',
   'AuthorUrl' => 'none',
   'License' => 'WTFPL version 2',
 );
 
 setlocale(LC_ALL, 'cs_CZ.UTF-8', 'czech', 'cs');
-
